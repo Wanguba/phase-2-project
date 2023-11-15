@@ -37,7 +37,7 @@ const searchLocation = (event) => {
       </div>
       <div className="description">
         {data.weather ? <p>{data.weather[0].main}</p> : null}
-      <p>Rain</p>
+      <p></p>
       </div>
     </div>
 
@@ -45,7 +45,7 @@ const searchLocation = (event) => {
       <div className="bottom">
       <div className="feels">
         {data.main ? <p className='bold'>{data.main.feels_like.toFixed()}</p> : null}
-        <p className='bold'>20 °F</p>
+        <p className='bold'>°F</p>
         <p>Very Cold</p>
       </div>
       <div className="humidity">

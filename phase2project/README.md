@@ -1,3 +1,12 @@
+Edith Wanguba,
+
+As a user, I should be able to:
+
+- See weather conditions of all countries rendered in `App.js`.
+- Add an individual country on the 'Enter Location' by clicking on it. The selected country should
+  display the `Climatic Conditions` component. The weather can be enlisted only **once**.
+  The climate/weather **does not** disappear unless another country is input in the 'Enter Location'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# License 
+This project is free to use.
