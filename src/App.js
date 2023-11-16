@@ -27,6 +27,7 @@ const searchLocation = (event) => {
         placeholder='Enter Location'
         type="text"/>
       </div>
+      <h1>Weather Today🌤️</h1>
   <div className="container">
     <div className="top">
     <div className="location">
@@ -58,6 +59,7 @@ const searchLocation = (event) => {
       </div>
         </div>
 }
+<h1>☁️ ☀️ 🌦️</h1>
 
   </div>
     </div>
